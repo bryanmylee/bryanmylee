@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://bryanmylee.github.io">
+    <img alt="banner" src="https://user-images.githubusercontent.com/42545742/117311609-ebe70980-aeb6-11eb-8056-3dd8995ea92f.gif" />
+  </a>
+</p>
+
 <h2 align="center">
   Hi there, I'm <a href="https://bryanmylee.github.io">Bryan</a>! 👋
 </h2>
