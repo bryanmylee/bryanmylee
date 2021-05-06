@@ -1,5 +1,14 @@
-### Hi there 👋
+<h2 align="center">
+  Hi there, I'm <a href="https://bryanmylee.github.io">Bryan</a>! 👋
+</h2>
 
+<p align="center">
+  <code>[software developer]</code>
+  <code>[vim enthusiast]</code>
+  <code>[computer science student]</code>
+  <code>[tech geek]</code>
+  <code>[cybersecurity researcher]</code>
+</p>
 <!--
 **bryanmylee/bryanmylee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
