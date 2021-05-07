@@ -9,9 +9,9 @@
 </h2>
 
 <p align="center">
-  <code>[software developer]</code>
-  <code>[vim enthusiast]</code>
-  <code>[computer science student]</code>
-  <code>[tech geek]</code>
-  <code>[cybersecurity researcher]</code>
+  <code>software developer</code>
+  <code>vim enthusiast</code>
+  <code>computer science student</code>
+  <code>tech geek</code>
+  <code>cybersecurity researcher</code>
 </p>
