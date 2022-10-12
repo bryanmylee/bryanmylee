@@ -13,5 +13,4 @@
   <code>vim enthusiast</code>
   <code>computer science student</code>
   <code>tech geek</code>
-  <code>cybersecurity researcher</code>
 </p>
