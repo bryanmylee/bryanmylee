@@ -21,6 +21,8 @@
 
 I'm currently learning Rust and building an online Tetris Perfect Clear solver with WebAssembly.
 
+* Building the Perfect Clear solver has been much harder than expected.
+
 **Three.js and WebXR**
 
 I'm improving my 3D modelling skills and learning more Three.js to build interactive 3D experiences. I also want to apply these skills into building virtual reality interfaces with WebXR.
@@ -37,4 +39,4 @@ Check out a list of my completed projects [here. 🚀](https://bryanmylee.com/pr
 
 ...and a whole bunch of [open source projects](https://bryanmylee.com/projects#open-source).
 
-**Last updated**: 27 Oct 2022
+**Last updated**: 21 Dec 2022
