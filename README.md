@@ -21,7 +21,7 @@
 
 I'm currently learning Rust and building an online [Tetris Perfect Clear solver](https://github.com/bryanmylee/perfect-clear) with WebAssembly.
 
-* Building the Perfect Clear solver has been much harder than expected.
+* _(21 Dec)_ Building the Perfect Clear solver has been much harder than expected.
 
 **Three.js and WebXR**
 
