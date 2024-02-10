@@ -23,10 +23,7 @@ I'm building new multiplayer VR experiences with Godot.
 
 **Rust and WebAssembly**
 
-I'm currently learning Rust and building an online [Tetris Perfect Clear solver](https://github.com/bryanmylee/perfect-clear) with WebAssembly.
-
-* _(21 Dec)_ Building the Perfect Clear solver has been much harder than expected. Read about it [here](https://bryanmylee.com/blog/solving-perfect-clears-with-rust-a0ac1bfe35f041498e9d205740030c0c).
-* _(3 Sep)_ I've learnt the Leptos framework for building frontend experiences in Rust and WebAssembly, using it to build a [full stack LLM chat bot in Rust](https://github.com/bryanmylee/rust-leptos-llama).
+I'm currently writing a cross-platform, multi-provider authentication service using Rust and Actix Web for my multiplayer VR experience.
 
 **Three.js and WebXR**
 
