@@ -15,20 +15,6 @@
   A software developer with a passion for learning new things!
 </p>
 
-## Current goals
-
-**Game development**
-
-I'm building new multiplayer VR experiences with Godot.
-
-**Rust and WebAssembly**
-
-I'm currently writing a cross-platform, multi-provider authentication service using Rust and Actix Web for my multiplayer VR experience.
-
-**Three.js and WebXR**
-
-I'm improving my 3D modelling skills and learning more Three.js to build interactive 3D experiences. I also want to apply these skills into building virtual reality interfaces with WebXR.
-
 ## Projects
 
 Check out a list of my completed projects [here. 🚀](https://bryanmylee.com/projects)
